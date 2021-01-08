@@ -1,7 +1,12 @@
-variable lenght arguments
+Saving structured data with json
 
+The standard module called json can take Python data hierarchies, 
+and convert them to string representations; this process is called serializing.
 
-def functionname([formal_args,] *var_args_tuple ):
-   "function_docstring"
-   function_suite
-   return [expression]
+deserializing : conversion of the strings to python data hierarchies 
+
+import json
+
+json.dumps(data, file alias)
+
+var = json.load(file alias)
