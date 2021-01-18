@@ -1,9 +1,9 @@
 Personal voice assistanat.
 
 1. Mic
-2. speech recognition
-3. speech to text
+2. speech recognition (SpeechRecognition)
+3. speech to text (Cookbook)
 4. calculation interface
-5. text to speech 
-6. voice engine
+5. text to speech (Cookbook)
+6. voice engine(voice_engine)
 7. speaker
