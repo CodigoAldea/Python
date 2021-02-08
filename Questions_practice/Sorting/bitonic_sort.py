@@ -4,7 +4,8 @@
             b. conpare the 2nd consitive element to find the nin and max values, and reittrate the step 1. 
             c. we got the Bitonic sequence.
         2. Sort the nitonic list or sequence. 
-            a. Now we  have a list whos 1st half is sorte in increasing order and 2nd half is sorted in decreasing order. 
+            a. Now we  have a list whos 1st half is sorte in increasing order and 2nd half is sorted in decreasing 
+            order. 
             b. Now we compare the 1st element or the 1st half with the 1st element of 2nd half and so on. 
             c. now we call the bitonic sequence function and get a sorted list.
 '''
@@ -39,3 +40,4 @@ sort(a, n, up)
 print ("\n\nSorted array is") 
 for i in range(n): 
     print("%d" %a[i])
+    
