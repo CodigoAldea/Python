@@ -7,7 +7,8 @@
 
 one type to understanding tim sort :
 
-    - if number of element in the list is < 64 (if the elements is greter than 64 the speed of the insertion sort decreses)
+    - if number of element in the list is < 64 (if the elements is greter than 64 the speed of the insertion 
+    sort decreses)
         we use insertion sort 
     else : 
         we make a run (sub list)
