@@ -5,3 +5,12 @@ Packages :
     open cv 
     winsound 
 
+function : 
+    1. Read the Cam view.
+    2. if motion found start recording and beep.
+    3. to quit press q. 
+
+Other function to work on : 
+    1. online view. 
+    2. sms alert. 
+    3. 
