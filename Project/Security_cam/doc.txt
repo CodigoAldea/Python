@@ -1,0 +1,7 @@
+Security Cam System : 
+    This system will have a vision, detect the motion,and alert the user with a alarm.
+
+Packages : 
+    open cv 
+    winsound 
+

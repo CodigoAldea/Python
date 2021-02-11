@@ -1,3 +1,8 @@
 Concept :
     User is going to provide verbal or written command and the task will bo done by the interface or software.
-    
+
+
+core functions : 
+    1.listen the command 
+    2.calculations if any 
+    3.output as speech
