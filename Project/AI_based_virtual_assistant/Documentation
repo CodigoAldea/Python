@@ -12,4 +12,8 @@ Packages :
     1. speech recognition
     2. pyttsx
     3. pyaudio
+        to download and install pyaudio we need a package pipwin 
+        tp install pipwin :
+            pip install pipwin
+            pipwin install pyaudio
     
