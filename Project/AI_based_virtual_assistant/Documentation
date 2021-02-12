@@ -16,4 +16,5 @@ Packages :
         tp install pipwin :
             pip install pipwin
             pipwin install pyaudio
+    4. pywhatkit
     
