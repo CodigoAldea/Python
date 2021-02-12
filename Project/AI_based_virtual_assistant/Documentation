@@ -6,3 +6,10 @@ core functions :
     1.listen the command 
     2.calculations if any 
     3.output as speech
+
+
+Packages : 
+    1. speech recognition
+    2. pyttsx
+    3. pyaudio
+    
