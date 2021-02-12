@@ -12,7 +12,7 @@ out = cv2.VideoWriter(x+out,fourcc, 20,(370,720),False)
 while cam.isOpened():
     ret, frame1 = cam.read()
     ret, frame2 = cam.read()q
-    diff = cv2.absdiff(frame1, frame2)
+    diffe = cv2.absdiff(frame1, frame2)
     grey = cv2.cvtColor(diff, cv2.COLOR_RGB2GRAY)
     blur = cv2.GaussianBlur(grey, (5, 5), 0)
     _, thresh = cv2.threshold(blur, 20, 255, cv2.THRESH_BINARY)
