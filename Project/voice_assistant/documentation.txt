@@ -1,0 +1,8 @@
+functions : 
+    1. Audio input 
+    2. output in audio
+    3. 
+
+
+Packages : 
+    1. SpeechRecognition 3.8.1
