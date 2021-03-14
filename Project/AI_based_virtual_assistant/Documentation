@@ -17,4 +17,4 @@ Packages :
             pip install pipwin
             pipwin install pyaudio
     4. pywhatkit
-    
+    py -3.9 -m pip install pypiwin32
