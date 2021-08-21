@@ -1,6 +1,8 @@
-1 > Write a Python program which accepts the radius of a circle from the user and compute the area.
+1 > Write a Python program which accepts the radius of a circle from the user 
+and compute the area.
 
-2 > Write a Python program to accept a filename from the user and print the extension of that.
+2 > Write a Python program to accept a filename from the user and print the 
+extension of that.
 
 3 > Write a Python program that accepts an integer (n) and computes the value of 
         n+nn+nnn+....+n...n times.
@@ -9,13 +11,16 @@
 
 5 > Write a Python program to get the current username.
 
-6 > Write a Python program to calculate the sum of three given numbers, if the numbers are 
-equal then return three times of their sum.
+6 > Write a Python program to calculate the sum of three given numbers, 
+if the numbers are equal then return three times of their sum.
 
 7 > Write a Python program to count the number 4 in a given list.
 
-8 > Write a Python program to test whether a passed letter is a vowel or not.
+8 > Write a Python program to test whether a passed letter 
+is a vowel or not.
 
-9 > Write a Python program to concatenate all elements in a list into a string and return it.
+9 > Write a Python program to concatenate all elements in 
+a list into a string and return it.
 
-10 > Write a Python program that will accept the base and height of a triangle and compute the area.
+10 > Write a Python program that will accept the base and height of a triangle and compute 
+the area.
