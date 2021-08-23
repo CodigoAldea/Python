@@ -2,7 +2,7 @@
 the user and compute the area.
 
 2 > Write a Python program to accept a filename from the user and
- print the extension of that.
+ print the extension of that file.
 
 3 > Write a Python program that accepts an integer (n) and computes the 
 value of :        n+nn+nnn+....+n...n times.
