@@ -1,19 +1,21 @@
 1> Write a Python program to count the number of characters (character frequency) in a string.
 
-2> Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself.
+2> Write a Python program to get a string from a given string where all 
+occurrences of its first char have been changed to '$', except the first char itself.
 
 3> Write a Python program to remove the nth index character from a nonempty string.
 
 4> Write a Python program to remove the characters which have odd index values of a given string.
 
-5> Write a Python program that accepts a comma separated sequence of words as input and prints the unique words in sorted form (alphanumerically).
+5> Write a Python program that accepts a comma separated sequence of words as input 
+and prints the unique words in sorted form (alphanumerically).
 
 6> Write a Python function to reverses a string if it's length is a multiple of 4.
 
-7> Write a Python program to print the following integers with '*' on the right of specified width.
+7> Write a Python program to print the integers with '*' on the right of specified width.
 
 8> Write a Python program to count and display the vowels of a given text.
 
 9> Write a Python program to move all spaces to the front of a given string in single traversal.
 
-10> Write a Python program to check whether any word in a given sting contains duplicate characrters or not.
+10> Write a Python program to remove all consecutive duplicates of a given string.
