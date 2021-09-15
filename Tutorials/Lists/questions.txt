@@ -1,0 +1,10 @@
+1. Write a Python program to sum all the items in a list.
+2. Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples.
+3. Write a Python program to print a specified list after removing the 0th, 4th and 5th elements.
+4. Write a Python program to generate a 3*4*6 3D array whose each element is *
+5. Write a Python program access the index of a list.
+6. Write a Python program to generate all sublists of a list.
+7. Write a Python program to split a list into different variables.
+8. Write a Python program to insert an element before each element of a list.
+9. Write a Python program to create a list of empty dictionaries.
+10. Write a Python program to remove consecutive duplicates of a given list.
