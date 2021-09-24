@@ -1,0 +1,10 @@
+1. Write a Python program to add an item in a tuple.
+2. Write a Python program to convert a tuple to a string.
+3. Write a Python program to get the 4th element and 4th element from last of a tuple.
+4. Write a Python program to create the colon of a tuple.
+5. Write a Python program to find the repeated items of a tuple.
+6. Write a Python program to remove an item from a tuple.
+7. Write a Python program to calculate the average value of the numbers in a given tuple of tuples.
+8. Write a Python program to check if a specified element presents in a tuple of tuples.
+9. Write a Python program to compute element-wise sum of given tuples.
+10. Write a Python program to compute the sum of all the elements of each tuple stored inside a list of tuples.
