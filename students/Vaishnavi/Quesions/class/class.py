@@ -1,6 +1,14 @@
-class class1:
-    a = 5
-    b = 7
+class x : # parent class 
+     a= 100
+     b= 200
+     # def __init__:
+class z : # parent class
+     i = 10
+     j = 20
+class y(x,z): # child class 
+     c=89
+     d=99
+     # def __init__ :
+r = y()
 
-obj = class1() #constructor;  object of a class
-print(obj.a) # accessing the variable in the class using an object.
+print(r.i)
