@@ -1,11 +1,16 @@
 import heapq
 import math
 import io
+
+
 t = 60
 last_row = -1
-a = [1,2,3,4,5,6,7,8]
 output = io.StringIO()
+
+a = [1,2,3,4,5,6,7,8]
 heapq.heapify(a)
+
+
 for i, n in enumerate(a):
     if i:
         row = int(math.floor(math.log(i+1, 2)))
